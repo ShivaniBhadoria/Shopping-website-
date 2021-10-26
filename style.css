@@ -108,6 +108,14 @@ a{
 .container-2{
     margin-top: 50px;
 }
+
+.produs{
+    display:flex;
+    align-items:center;
+    flex-wrap:wrap;
+    justify-content: space around;
+}
+
 h4{  
     color: #281e1d;
     padding: 10px;
@@ -118,6 +126,7 @@ h4{
     padding: 10px;
     font-size: 15px;
 }
+
 
                     /* Brands featured */
                                  

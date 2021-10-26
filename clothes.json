@@ -1,0 +1,46 @@
+[
+    
+    {
+        "name" : "Dark Green Bralette",
+        "price" : "$20.00",
+        "imgSrc" : "image/womano.jpg"
+    },
+
+    {   
+        "name" : "Red Hoodie",
+        "price" : "$50.00",
+        "imgSrc" : "image/outfit1.jpg"
+    },
+
+    {   
+        "name" : "Black Dress",
+        "price" : "$65.00",
+        "imgSrc" : "image/f18.jpg"
+    },
+
+    {  
+        "name" : "Grey Hoodie",
+        "price" : "$57.00",
+        "imgSrc" : "image/man.jpg"
+    },
+
+    {   "id" : "520",
+        "name" : "Rainbow Shoes",
+        "price" : "$75.00",
+        "imgSrc" : "image/shoes.jpg"
+    },
+
+    {   
+        "name" : "Black Blazer",
+        "price" : "$90.00",
+        "imgSrc" : "image/blas.jpg"
+    },
+
+    {  
+        "name" : "Brown Jacket",
+        "price" : "$85.00",
+        "imgSrc" : "image/brow.jpg"
+    }
+
+
+]
